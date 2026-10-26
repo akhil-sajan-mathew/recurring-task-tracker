@@ -4,9 +4,9 @@ A recurring-task tracker for a small operations team, built on Google Sheets and
 
 ## Demo video (7 min 44 s)
 
-[![Watch the demo](docs/demo-thumbnail.png)](docs/demo.mp4)
+https://github.com/user-attachments/assets/88273b53-287e-46a2-b251-e27b6e2b2545
 
-Click the image to play the video, which is stored in this repo as [docs/demo.mp4](docs/demo.mp4). The walkthrough runs live on the sheet: recurring cycles, daily and ticket completion, the same-day manager alert, acknowledgement, both leadership escalation reasons, and no duplicates on repeated runs.
+The same video is stored in this repo as [docs/demo.mp4](docs/demo.mp4) (720p). The walkthrough runs live on the sheet: recurring cycles, daily and ticket completion, the same-day manager alert, acknowledgement, both leadership escalation reasons, and no duplicates on repeated runs.
 
 ## Features
 
